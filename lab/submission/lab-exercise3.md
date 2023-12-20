@@ -21,7 +21,7 @@
   </tr>
   <tr>
     <td>3</td>
-    <td>Power Ranger</td>
+    <td>Vergil's Chair</td>
     <td></td>
     <th><a href="submissions/lab3"><img src="../../project/images/folder.png" width="24px" height="24px"></a></th>
   </tr>
